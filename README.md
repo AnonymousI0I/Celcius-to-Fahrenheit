@@ -21,8 +21,8 @@ This Python script provides a collection of utility functions for various calcul
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/utility-functions.git
-    cd utility-functions
+    git clone https://github.com/AnonymousI0I/Utility-Functions-in-Python
+    cd Utility-Functions-in-Python
     ```
 
 2. **Ensure Python 3.x is installed on your machine**.
