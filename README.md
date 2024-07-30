@@ -21,7 +21,7 @@ This Python script provides a collection of utility functions for various calcul
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/AnonymousI0I/Utility-Functions-in-Python
+    git clone https://github.com/AnonymousI0I/Utility-Functions-in-Python.git
     cd Utility-Functions-in-Python
     ```
 
@@ -32,7 +32,7 @@ This Python script provides a collection of utility functions for various calcul
 1. **Run the script**:
 
     ```bash
-    python utility_functions.py
+    python Utility Functions In Python.py
     ```
 
 2. **Follow the on-screen prompts to use the different functionalities**:
